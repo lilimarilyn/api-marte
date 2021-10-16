@@ -1,0 +1,60 @@
+{
+  "info": [
+    {
+      "estado": "no potable",
+      "tamano": "23456",
+      "coordenadax": "1,34567",
+      "coordenaday": "1,46578",
+      "id": 2
+    },
+    {
+      "estado": "por explorar",
+      "tamano": "7869",
+      "coordenadax": "0,3456",
+      "coordenaday": "0,76857",
+      "id": 3
+    },
+    {
+      "estado": "sin explorar",
+      "tamano": "786959",
+      "coordenadax": "4,453778",
+      "coordenaday": "4,787699",
+      "id": 4
+    },
+    {
+      "estado": "potable",
+      "tamano": "12345",
+      "coordenadax": "6,546738",
+      "coordenaday": "6,21345",
+      "id": 5
+    },
+    {
+      "estado": "no potable",
+      "tamano": "5764545",
+      "coordenadax": "7,63554",
+      "coordenaday": "7,093645",
+      "id": 6
+    },
+    {
+      "estado": "peligroso",
+      "tamano": "463637",
+      "coordenadax": "0,874554",
+      "coordenaday": "0,887776",
+      "id": 7
+    },
+    {
+      "estado": "agua potable",
+      "tamano": "6789",
+      "coordenadax": "0,87655",
+      "coordenaday": "0,8765",
+      "id": 8
+    },
+    {
+      "estado": "visitado otra ves",
+      "tamano": "23456",
+      "coordenadax": "1,34567",
+      "coordenaday": "1,46578",
+      "id": 9
+    }
+  ]
+}
